@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ishwar-talokar"
+  },
+  "targets": {
+    "ishwar-talokar": {
+      "hosting": {
+        "second": [
+          "ishwartalokar"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
